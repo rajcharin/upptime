@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 91,
-    "timeWeek": 113,
-    "timeMonth": 108,
+    "timeDay": 157,
+    "timeWeek": 126,
+    "timeMonth": 111,
     "timeYear": 113,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.r1estate.com.ico",
     "slug": "realty-one-thailand",
     "status": "up",
-    "uptime": "54.63%",
+    "uptime": "54.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.54%",
-    "time": 3903,
-    "timeDay": 4092,
-    "timeWeek": 4136,
-    "timeMonth": 4118,
-    "timeYear": 3903,
+    "uptimeYear": "64.81%",
+    "time": 3904,
+    "timeDay": 4114,
+    "timeWeek": 4199,
+    "timeMonth": 4116,
+    "timeYear": 3904,
     "dailyMinutesDown": {
       "2023-12-21": 82,
       "2023-12-08": 20,
@@ -163,8 +163,7 @@
       "2023-05-05": 1440,
       "2023-05-04": 1440,
       "2023-05-03": 1440,
-      "2023-05-02": 1440,
-      "2023-05-01": 1440
+      "2023-05-02": 1440
     }
   },
   {
@@ -178,10 +177,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 115,
-    "timeDay": 81,
-    "timeWeek": 159,
-    "timeMonth": 105,
+    "time": 116,
+    "timeDay": 146,
+    "timeWeek": 153,
+    "timeMonth": 107,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2023-10-07": 41,
@@ -202,9 +201,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 294,
-    "timeWeek": 225,
-    "timeMonth": 214,
+    "timeDay": 356,
+    "timeWeek": 250,
+    "timeMonth": 213,
     "timeYear": 200,
     "dailyMinutesDown": {}
   },
@@ -219,10 +218,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 317,
-    "timeDay": 502,
-    "timeWeek": 346,
-    "timeMonth": 321,
+    "time": 316,
+    "timeDay": 349,
+    "timeWeek": 355,
+    "timeMonth": 316,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2024-03-26": 20,
@@ -236,8 +235,7 @@
       "2023-10-09": 19,
       "2023-07-21": 22,
       "2023-07-18": 22,
-      "2023-05-29": 15,
-      "2023-05-01": 22
+      "2023-05-29": 15
     }
   },
   {
