@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 126,
-    "timeWeek": 110,
+    "timeDay": 137,
+    "timeWeek": 117,
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {}
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.r1estate.com.ico",
     "slug": "realty-one-thailand",
     "status": "down",
-    "uptime": "52.33%",
+    "uptime": "52.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 3919,
     "dailyMinutesDown": {
-      "2024-07-24": 53,
+      "2024-07-25": 52,
+      "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
@@ -132,8 +133,7 @@
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
-      "2023-07-27": 1440,
-      "2023-07-26": 1440
+      "2023-07-27": 1440
     }
   },
   {
@@ -148,9 +148,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 116,
-    "timeDay": 355,
-    "timeWeek": 153,
-    "timeMonth": 121,
+    "timeDay": 143,
+    "timeWeek": 163,
+    "timeMonth": 124,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2024-05-01": 42,
@@ -171,11 +171,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 201,
-    "timeWeek": 223,
-    "timeMonth": 218,
-    "timeYear": 211,
+    "time": 210,
+    "timeDay": 200,
+    "timeWeek": 224,
+    "timeMonth": 220,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -190,9 +190,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.91%",
     "time": 317,
-    "timeDay": 340,
-    "timeWeek": 377,
-    "timeMonth": 319,
+    "timeDay": 355,
+    "timeWeek": 358,
+    "timeMonth": 317,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2024-06-25": 15,
