@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 171,
-    "timeWeek": 130,
+    "timeDay": 102,
+    "timeWeek": 129,
     "timeMonth": 117,
     "timeYear": 114,
     "dailyMinutesDown": {}
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.r1estate.com.ico",
     "slug": "realty-one-thailand",
     "status": "down",
-    "uptime": "51.58%",
+    "uptime": "51.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 3919,
     "dailyMinutesDown": {
-      "2024-08-02": 52,
+      "2024-08-03": 51,
+      "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
@@ -132,8 +133,7 @@
       "2023-08-08": 1440,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
-      "2023-08-05": 1440,
-      "2023-08-04": 1440
+      "2023-08-05": 1440
     }
   },
   {
@@ -147,10 +147,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 116,
-    "timeDay": 102,
-    "timeWeek": 89,
-    "timeMonth": 107,
+    "time": 115,
+    "timeDay": 72,
+    "timeWeek": 87,
+    "timeMonth": 106,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2024-05-01": 42,
@@ -171,11 +171,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 172,
-    "timeWeek": 245,
-    "timeMonth": 233,
-    "timeYear": 211,
+    "time": 212,
+    "timeDay": 848,
+    "timeWeek": 345,
+    "timeMonth": 252,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   },
   {
@@ -190,10 +190,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 318,
-    "timeDay": 111,
-    "timeWeek": 280,
-    "timeMonth": 332,
-    "timeYear": 328,
+    "timeDay": 374,
+    "timeWeek": 321,
+    "timeMonth": 329,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2024-06-25": 15,
       "2024-03-26": 20,
