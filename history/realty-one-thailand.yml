@@ -1,7 +1,7 @@
 url: https://www.r1estate.com
-status: up
-code: 200
-responseTime: 4170
-lastUpdated: 2025-01-01T23:09:48.656Z
+status: down
+code: 429
+responseTime: 120
+lastUpdated: 2025-01-02T03:28:49.097Z
 startTime: 2022-11-06T16:07:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
