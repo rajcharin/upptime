@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 206,
-    "timeWeek": 158,
+    "time": 132,
+    "timeDay": 155,
+    "timeWeek": 167,
     "timeMonth": 143,
     "timeYear": 138,
     "dailyMinutesDown": {}
@@ -24,15 +24,15 @@
     "slug": "realty-one-thailand",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "97.17%",
+    "uptimeDay": "98.23%",
     "uptimeWeek": "98.34%",
     "uptimeMonth": "97.93%",
     "uptimeYear": "99.53%",
-    "time": 1617,
-    "timeDay": 982,
-    "timeWeek": 1010,
-    "timeMonth": 993,
-    "timeYear": 1207,
+    "time": 1616,
+    "timeDay": 1069,
+    "timeWeek": 993,
+    "timeMonth": 991,
+    "timeYear": 1204,
     "dailyMinutesDown": {
       "2025-03-15": 25,
       "2025-03-14": 15,
@@ -97,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 110,
-    "timeDay": 140,
-    "timeWeek": 155,
-    "timeMonth": 130,
+    "timeDay": 78,
+    "timeWeek": 152,
+    "timeMonth": 129,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2024-05-01": 42
@@ -116,11 +116,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 173,
-    "timeWeek": 134,
-    "timeMonth": 144,
-    "timeYear": 231,
+    "time": 223,
+    "timeDay": 71,
+    "timeWeek": 118,
+    "timeMonth": 145,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   },
   {
@@ -135,14 +135,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 305,
-    "timeDay": 144,
-    "timeWeek": 344,
-    "timeMonth": 294,
+    "timeDay": 377,
+    "timeWeek": 342,
+    "timeMonth": 290,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2024-06-25": 15,
-      "2024-03-26": 20,
-      "2024-03-16": 16
+      "2024-03-26": 20
     }
   },
   {
