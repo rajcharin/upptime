@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.revotive.com.ico",
     "slug": "revotive",
     "status": "up",
-    "uptime": "98.48%",
+    "uptime": "98.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "51.93%",
@@ -39,17 +39,17 @@
     "url": "https://www.r1estate.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.r1estate.com.ico",
     "slug": "realty-one-thailand",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "98.30%",
     "uptimeWeek": "97.73%",
     "uptimeMonth": "97.97%",
     "uptimeYear": "99.53%",
-    "time": 1550,
-    "timeDay": 1005,
-    "timeWeek": 917,
-    "timeMonth": 1020,
-    "timeYear": 1119,
+    "time": 1547,
+    "timeDay": 841,
+    "timeWeek": 949,
+    "timeMonth": 1025,
+    "timeYear": 1118,
     "dailyMinutesDown": {
       "2025-04-09": 24,
       "2025-04-07": 57,
@@ -106,7 +106,7 @@
       "2025-02-04": 21,
       "2025-02-03": 59,
       "2025-02-02": 66,
-      "2025-02-01": 31
+      "2025-02-01": 16
     }
   },
   {
