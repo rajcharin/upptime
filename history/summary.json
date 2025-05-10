@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.99%",
     "time": 135,
-    "timeDay": 121,
-    "timeWeek": 134,
-    "timeMonth": 130,
+    "timeDay": 157,
+    "timeWeek": 132,
+    "timeMonth": 131,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2025-04-01": 443,
@@ -40,16 +40,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.r1estate.com.ico",
     "slug": "realty-one-thailand",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "96.64%",
-    "uptimeWeek": "96.74%",
+    "uptime": "99.81%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "96.95%",
     "uptimeMonth": "98.17%",
     "uptimeYear": "99.51%",
-    "time": 1389,
-    "timeDay": 931,
-    "timeWeek": 309,
-    "timeMonth": 656,
-    "timeYear": 984,
+    "time": 1386,
+    "timeDay": 1105,
+    "timeWeek": 314,
+    "timeMonth": 654,
+    "timeYear": 981,
     "dailyMinutesDown": {
       "2025-05-10": 23,
       "2025-05-09": 67,
@@ -113,7 +113,7 @@
       "2025-02-15": 21,
       "2025-02-14": 51,
       "2025-02-13": 20,
-      "2025-02-12": 55
+      "2025-02-12": 16
     }
   },
   {
@@ -128,8 +128,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 84,
-    "timeWeek": 138,
+    "timeDay": 115,
+    "timeWeek": 140,
     "timeMonth": 105,
     "timeYear": 109,
     "dailyMinutesDown": {}
@@ -146,10 +146,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 66,
-    "timeWeek": 167,
-    "timeMonth": 152,
-    "timeYear": 215,
+    "timeDay": 287,
+    "timeWeek": 144,
+    "timeMonth": 156,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   },
   {
@@ -163,11 +163,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 393,
-    "timeWeek": 341,
-    "timeMonth": 350,
-    "timeYear": 320,
+    "time": 311,
+    "timeDay": 294,
+    "timeWeek": 360,
+    "timeMonth": 348,
+    "timeYear": 319,
     "dailyMinutesDown": {
       "2024-06-25": 15
     }
