@@ -41,17 +41,17 @@
     "slug": "realty-one-thailand",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "94.77%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "98.13%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "98.16%",
     "uptimeYear": "99.50%",
     "time": 1287,
     "timeDay": 1083,
-    "timeWeek": 1033,
+    "timeWeek": 1020,
     "timeMonth": 569,
     "timeYear": 946,
     "dailyMinutesDown": {
-      "2025-05-22": 76,
+      "2025-05-22": 65,
       "2025-05-21": 39,
       "2025-05-20": 39,
       "2025-05-17": 24,
@@ -115,7 +115,8 @@
       "2025-02-21": 36,
       "2025-02-20": 49,
       "2025-02-19": 55,
-      "2025-02-18": 37
+      "2025-02-18": 37,
+      "2025-02-17": 26
     }
   },
   {
