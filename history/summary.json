@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.99%",
     "time": 137,
-    "timeDay": 202,
-    "timeWeek": 151,
+    "timeDay": 136,
+    "timeWeek": 144,
     "timeMonth": 142,
     "timeYear": 145,
     "dailyMinutesDown": {
@@ -41,17 +41,16 @@
     "slug": "realty-one-thailand",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "96.95%",
-    "uptimeMonth": "97.63%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.06%",
+    "uptimeMonth": "97.65%",
     "uptimeYear": "99.46%",
-    "time": 1223,
-    "timeDay": 39,
-    "timeWeek": 807,
-    "timeMonth": 660,
-    "timeYear": 927,
+    "time": 1219,
+    "timeDay": 117,
+    "timeWeek": 767,
+    "timeMonth": 642,
+    "timeYear": 924,
     "dailyMinutesDown": {
-      "2025-05-30": 11,
       "2025-05-29": 24,
       "2025-05-28": 81,
       "2025-05-27": 45,
@@ -119,7 +118,8 @@
       "2025-02-23": 44,
       "2025-02-22": 45,
       "2025-02-21": 36,
-      "2025-02-20": 49
+      "2025-02-20": 49,
+      "2025-02-19": 18
     }
   },
   {
@@ -134,10 +134,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 107,
-    "timeWeek": 97,
-    "timeMonth": 113,
-    "timeYear": 107,
+    "timeDay": 101,
+    "timeWeek": 93,
+    "timeMonth": 112,
+    "timeYear": 108,
     "dailyMinutesDown": {}
   },
   {
@@ -152,10 +152,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 94,
-    "timeWeek": 133,
-    "timeMonth": 206,
-    "timeYear": 211,
+    "timeDay": 46,
+    "timeWeek": 72,
+    "timeMonth": 201,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -170,10 +170,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 311,
-    "timeDay": 384,
-    "timeWeek": 286,
-    "timeMonth": 293,
-    "timeYear": 318,
+    "timeDay": 147,
+    "timeWeek": 271,
+    "timeMonth": 288,
+    "timeYear": 317,
     "dailyMinutesDown": {
       "2025-05-27": 21,
       "2024-06-25": 15
