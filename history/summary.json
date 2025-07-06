@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.99%",
     "time": 139,
-    "timeDay": 119,
-    "timeWeek": 134,
-    "timeMonth": 148,
+    "timeDay": 136,
+    "timeWeek": 138,
+    "timeMonth": 146,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2025-04-01": 443,
@@ -41,17 +41,17 @@
     "slug": "realty-one-thailand",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "98.06%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "98.67%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "98.69%",
     "uptimeYear": "99.45%",
-    "time": 1108,
-    "timeDay": 875,
-    "timeWeek": 380,
-    "timeMonth": 257,
-    "timeYear": 868,
+    "time": 1106,
+    "timeDay": 899,
+    "timeWeek": 433,
+    "timeMonth": 270,
+    "timeYear": 869,
     "dailyMinutesDown": {
-      "2025-07-05": 28,
+      "2025-07-05": 17,
       "2025-07-03": 37,
       "2025-07-02": 37,
       "2025-06-29": 38,
@@ -118,7 +118,8 @@
       "2025-03-16": 24,
       "2025-03-15": 25,
       "2025-03-14": 15,
-      "2025-03-13": 69
+      "2025-03-13": 69,
+      "2025-03-12": 17
     }
   },
   {
@@ -133,9 +134,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 98,
-    "timeWeek": 97,
-    "timeMonth": 109,
+    "timeDay": 99,
+    "timeWeek": 98,
+    "timeMonth": 110,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2025-06-18": 21
@@ -153,10 +154,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 181,
-    "timeWeek": 243,
-    "timeMonth": 235,
-    "timeYear": 211,
+    "timeDay": 49,
+    "timeWeek": 221,
+    "timeMonth": 229,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -171,10 +172,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 316,
-    "timeDay": 289,
-    "timeWeek": 316,
-    "timeMonth": 322,
-    "timeYear": 321,
+    "timeDay": 101,
+    "timeWeek": 279,
+    "timeMonth": 312,
+    "timeYear": 319,
     "dailyMinutesDown": {
       "2025-05-27": 21
     }
