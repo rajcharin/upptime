@@ -39,18 +39,19 @@
     "url": "https://www.r1estate.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.r1estate.com.ico",
     "slug": "realty-one-thailand",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "98.70%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.91%",
     "uptimeMonth": "98.75%",
     "uptimeYear": "99.45%",
-    "time": 1100,
-    "timeDay": 840,
-    "timeWeek": 575,
-    "timeMonth": 308,
+    "time": 1097,
+    "timeDay": 816,
+    "timeWeek": 601,
+    "timeMonth": 310,
     "timeYear": 869,
     "dailyMinutesDown": {
+      "2025-07-08": 0,
       "2025-07-07": 19,
       "2025-07-05": 17,
       "2025-07-03": 37,
@@ -119,7 +120,7 @@
       "2025-03-16": 24,
       "2025-03-15": 25,
       "2025-03-14": 15,
-      "2025-03-13": 69
+      "2025-03-13": 51
     }
   },
   {
