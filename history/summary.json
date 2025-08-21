@@ -39,18 +39,19 @@
     "url": "https://www.r1estate.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.r1estate.com.ico",
     "slug": "realty-one-thailand",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "98.95%",
-    "uptimeYear": "99.47%",
-    "time": 1061,
+    "uptimeYear": "99.48%",
+    "time": 1059,
     "timeDay": 1537,
     "timeWeek": 1749,
-    "timeMonth": 1195,
+    "timeMonth": 1199,
     "timeYear": 890,
     "dailyMinutesDown": {
+      "2025-08-21": 0,
       "2025-08-17": 16,
       "2025-08-16": 18,
       "2025-08-10": 35,
@@ -120,8 +121,7 @@
       "2025-04-15": 50,
       "2025-04-14": 52,
       "2025-04-11": 68,
-      "2025-04-09": 24,
-      "2025-04-07": 37
+      "2025-04-09": 24
     }
   },
   {
@@ -130,7 +130,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -140,9 +140,7 @@
     "timeWeek": 91,
     "timeMonth": 99,
     "timeYear": 105,
-    "dailyMinutesDown": {
-      "2025-06-18": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -168,7 +166,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -178,9 +176,7 @@
     "timeWeek": 382,
     "timeMonth": 380,
     "timeYear": 321,
-    "dailyMinutesDown": {
-      "2025-05-27": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
