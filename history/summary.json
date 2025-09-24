@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.99%",
     "time": 149,
-    "timeDay": 117,
-    "timeWeek": 132,
-    "timeMonth": 192,
+    "timeDay": 247,
+    "timeWeek": 152,
+    "timeMonth": 196,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2025-04-01": 443,
@@ -41,17 +41,16 @@
     "slug": "realty-one-thailand",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "91.89%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.34%",
     "uptimeYear": "99.45%",
-    "time": 949,
-    "timeDay": 3066,
-    "timeWeek": 1531,
-    "timeMonth": 895,
+    "time": 947,
+    "timeDay": 7384,
+    "timeWeek": 1568,
+    "timeMonth": 853,
     "timeYear": 898,
     "dailyMinutesDown": {
-      "2025-09-23": 10,
       "2025-09-22": 107,
       "2025-08-29": 21,
       "2025-08-28": 33,
@@ -123,7 +122,8 @@
       "2025-04-22": 37,
       "2025-04-19": 71,
       "2025-04-18": 26,
-      "2025-04-16": 17
+      "2025-04-16": 17,
+      "2025-04-15": 20
     }
   },
   {
@@ -138,9 +138,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 84,
-    "timeWeek": 79,
-    "timeMonth": 101,
+    "timeDay": 113,
+    "timeWeek": 85,
+    "timeMonth": 102,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2025-06-18": 21
@@ -158,9 +158,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 87,
-    "timeWeek": 118,
-    "timeMonth": 170,
+    "timeDay": 377,
+    "timeWeek": 161,
+    "timeMonth": 178,
     "timeYear": 192,
     "dailyMinutesDown": {}
   },
@@ -175,11 +175,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 114,
-    "timeWeek": 347,
-    "timeMonth": 286,
-    "timeYear": 321,
+    "time": 320,
+    "timeDay": 249,
+    "timeWeek": 312,
+    "timeMonth": 290,
+    "timeYear": 320,
     "dailyMinutesDown": {
       "2025-05-27": 21
     }
