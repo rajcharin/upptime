@@ -4,18 +4,20 @@
     "url": "https://www.bluebik.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bluebik.com.ico",
     "slug": "bluebik-group",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2108,
-    "timeDay": 1897,
-    "timeWeek": 2108,
-    "timeMonth": 2108,
-    "timeYear": 2108,
-    "dailyMinutesDown": {}
+    "time": 1925,
+    "timeDay": 1270,
+    "timeWeek": 1925,
+    "timeMonth": 1925,
+    "timeYear": 1925,
+    "dailyMinutesDown": {
+      "2025-10-23": 0
+    }
   },
   {
     "name": "revotive",
@@ -60,13 +62,13 @@
     "status": "down",
     "uptime": "99.27%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.20%",
+    "uptimeWeek": "80.51%",
     "uptimeMonth": "80.32%",
     "uptimeYear": "97.84%",
     "time": 911,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 2189,
+    "timeMonth": 1836,
     "timeYear": 925,
     "dailyMinutesDown": {
       "2025-10-17": 1025,
