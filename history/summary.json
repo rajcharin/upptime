@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bluebik.com.ico",
     "slug": "bluebik-group",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 1986,
-    "timeDay": 1838,
-    "timeWeek": 1881,
-    "timeMonth": 1986,
-    "timeYear": 1986,
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1971,
+    "timeDay": 1751,
+    "timeWeek": 1864,
+    "timeMonth": 1971,
+    "timeYear": 1971,
     "dailyMinutesDown": {
       "2025-10-23": 25
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.99%",
     "time": 152,
-    "timeDay": 210,
-    "timeWeek": 178,
-    "timeMonth": 162,
+    "timeDay": 155,
+    "timeWeek": 170,
+    "timeMonth": 155,
     "timeYear": 151,
     "dailyMinutesDown": {
       "2025-04-01": 443,
@@ -68,7 +68,7 @@
     "time": 911,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 2197,
+    "timeMonth": 2277,
     "timeYear": 925,
     "dailyMinutesDown": {
       "2025-10-17": 1025,
@@ -163,9 +163,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 77,
-    "timeWeek": 102,
-    "timeMonth": 96,
+    "timeDay": 126,
+    "timeWeek": 97,
+    "timeMonth": 98,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2025-06-18": 21
@@ -183,9 +183,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 586,
+    "timeDay": 189,
     "timeWeek": 317,
-    "timeMonth": 236,
+    "timeMonth": 240,
     "timeYear": 197,
     "dailyMinutesDown": {}
   },
@@ -201,10 +201,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 320,
-    "timeDay": 399,
-    "timeWeek": 324,
+    "timeDay": 107,
+    "timeWeek": 296,
     "timeMonth": 317,
-    "timeYear": 324,
+    "timeYear": 323,
     "dailyMinutesDown": {
       "2025-05-27": 21
     }
